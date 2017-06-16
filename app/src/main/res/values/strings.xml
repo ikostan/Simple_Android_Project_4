@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EgorKostan_VolCalc</string>
+    <string name="menu_tile">Plese select one of the listed options</string>
+    <string name="cube_tile">Cube volume calculation</string>
+    <string name="sphere_tile">Sphere volume calculation</string>
+    <string name="cylinder_tile">Cylinder volume calculation</string>
+
+    <string name="radio_cube">cube</string>
+    <string name="radio_cylinder">cylinder</string>
+    <string name="radio_sphere">sphere</string>
+    <string name="btn_go">GO</string>
+
+    <string name="btn_close">Close</string>
+    <string name="_0_0">0.0</string>
+    <string name="calculate">Calculate</string>
+    <string name="please_enter_height">please enter height</string>
+    <string name="please_enter_radius_value">please enter radius value</string>
+    <string name="please_enter_heigh_value">please enter heigh value</string>
+    <string name="plese_enter_radius_value">plese enter radius value</string>
+
+</resources>
